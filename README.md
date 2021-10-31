@@ -15,3 +15,4 @@ Steps:
 - Set showImg as a boolean true
 - On return create a ternary operator to conditionally render
 - Set up click handler for likes
+- axios.put to update likes
