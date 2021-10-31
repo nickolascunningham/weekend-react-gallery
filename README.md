@@ -1,9 +1,10 @@
-# Project Name
-
-[Project Instructions](./INSTRUCTIONS.md), this line may be removed once you have updated the README.md
-
 ## Description
 
 Your project description goes here. What problem did you solve? How did you solve it?
 
-Additional README details can be found [here](https://github.com/PrimeAcademy/readme-template/blob/master/README.md).
+===
+Setup:
+- Pick a handful of images of myself, family and interests
+- Spin up server and React
+- Add images to public/images folder and add them on server/modules/gallery.data.js 
+- Include id, title, description and path for each image
